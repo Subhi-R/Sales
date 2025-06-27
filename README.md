@@ -17,3 +17,6 @@ The objective of this project is to help the audiences develop their skills and 
       It is the process of inspecting and modeling data with the goal of discovering useful information and supporting decision making.
 6. Interpret the results
       It means explaining the meaning and implications of your findings in relation to your research and hypothesis.
+
+# Dashboard Image
+<a href="https://github.com/Subhi-R/Sales/blob/main/Screenshot%202025-06-27%20130611.png">
