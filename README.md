@@ -19,4 +19,4 @@ The objective of this project is to help the audiences develop their skills and 
       It means explaining the meaning and implications of your findings in relation to your research and hypothesis.
 
 # Dashboard Image
-<a href="https://github.com/Subhi-R/Sales/blob/main/Screenshot%202025-06-27%20130611.png">
+<a href="https://github.com/Subhi-R/Sales/blob/main/Screenshot%202025-06-27%20130611.png"> image </a>
